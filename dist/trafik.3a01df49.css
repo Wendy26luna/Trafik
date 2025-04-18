@@ -1,0 +1,68 @@
+.trafik-square {
+  vertical-align: top;
+  margin: 0 15px;
+  display: inline-block;
+}
+
+.square {
+  background-color: gray;
+  width: 100px;
+  height: 100px;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.red-border {
+  border: 10px solid #930505;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.yellow-background {
+  background-color: #ff0;
+}
+
+.yellow-border {
+  border: 10px solid #939305;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.green-background {
+  background-color: #0ddc0d;
+}
+
+.green-border {
+  border: 10px solid #054805;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.square1 {
+  width: 100px;
+  height: 50px;
+}
+
+.light-red-background {
+  background-color: #f65757d0;
+}
+
+.square2 {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+.light-yellow-background {
+  background-color: #dddea0f9;
+}
+
+.light-green-background {
+  background-color: #a4dea0f9;
+}
+/*# sourceMappingURL=trafik.3a01df49.css.map */
